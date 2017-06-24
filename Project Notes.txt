@@ -221,12 +221,16 @@ Continuous Integration:
     Runs test suite
     Can automate deployment
 
-    Travic (recommended for Linux)
+    Travisci (recommended for Linux)
     Appveyor (recommended for Windows)
     Jenkins
     CircleCI
     Semaphore
     SnapCI
+
+    Travisci: works with github - sign in at travis-ci.org
+      add file .travis.yml
+
 
 
 
